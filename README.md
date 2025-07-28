@@ -16,7 +16,7 @@ Additionally, it was necessary to visualise this data using tools like Google Sh
 
 ### Data Processing
 
-The link for the SQL query: [Add SQL Query Link Here]
+The link for the SQL query: (https://github.com/netely313/Cohorts-Analysis-SQL/blob/main/SQL_Code_Churn.sql)
 
 ## 📈 Results & Visualizations
 
